@@ -78,22 +78,18 @@
 
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/valheim/e/e2/P8lWw2rH1g.jpg?width=640",
       "state" : "vip",
       "title" : "Cheats and Codes List (Console Commands) - Part 1",
-      "description" : "How to Enable Cheats
-To start using cheats and other general console commands in Valheim, you will need to press F5 in order to bring up the console command box.https://oyster.ignimgs.com/mediawiki/apis.ign.com/valheim/e/e2/P8lWw2rH1g.jpg?width=640
-Before you can continue delving into the world of cheats, you will need to ensure that cheats are activated by typing "imacheater". However, it is worth noting that cheats can only be used in singleplayer and will not work on multiplayer servers.
-
-In order to turn cheats off, simply retype "imacheater" into the console command box and watch as cheats are turned to false.",
-      "written" : "How to Spawn Any Item and Monster <section class="jsx-1266389546 jsx-205054083 jsx-112730130 wiki-section wiki-html"><div class="gh-red-box"><b>WARNING:</b> Please use the Spawn Item cheat at your own risk, as cheating can not only ruin your in-game experience but the <a class="new" title="Items (page does not exist)" href="/wikis/valheim/Items">items</a> and quantity that use spawn into your world could potentially cause bugs, glitches, and possibly even break your world.</div></section>"
+      "description" : "To start using cheats and other general console commands in Valheim you will need to press F5 in order to bring up the console command box Before you can continue delving into the world of cheats you will need to ensure that cheats are activated by typing imacheater  However it is worth noting that cheats can only be used in singleplayer and will not work on multiplayer servers</>br</br>In order to turn cheats off simply retype imacheater into the console command box and watch as cheats are turned to false",
+      "written" : "Test written 7"
     },
     {
       "id" : 5,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "vip",
       "title" : "Cheats and Codes List (Console Commands) - Part 2",
-      "description" : "How to Enable CheatsHow to Enable Cheats",
+      "description" : "How to Enable Cheats",
       "written" : "Test written 8"
     }
   ]

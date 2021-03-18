@@ -45,52 +45,88 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://static3.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Start-Screen.jpg?q=50&fit=crop&w=960&h=500",
       "state" : "free",
-      "title" : "Test title 0",
-      "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "title" : "How to Get Started in Factorio Strategies",
+      "description" : "Getting started in Factorio can be a little daunting at first, but ",
+      "written" : "with these tips and tricks you'll be pumping out the goods in no time.\nFactorio is a game where players build, expand, and defend their factories on an alien planet. Unlike its first-person counterpart, Satisfactory, Factorio is an ever-expanding procedurally generated world. By developing an assembly line, players will utilize progressively advancing technologies that will culminate into a complicated array of trains, belts, and machines. As the player's factory expands, so will the pollution, attracting increasingly powerful and destructive natives.\nWube Software LTD. has ensured every playthrough will provide unique challenges with the seed-based terrain generation and biomes of Factorio.  The player doesn't start with much, but through automation, the play experience rapidly evolves. To start efficiently and develop an understanding of Factorio's mechanics, the player should keep these in mind (next in the app)\n",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Early.jpg?q=50&fit=crop&w=740&h=370",
       "state" : "free",
-      "title" : "Test title 1",
-      "description" : "",
-      "written" : "Test written 1"
+      "title" : "Finding The Ideal Starting Location In Factorio",
+      "description" : "After dismantling the crashed ship,",
+      "written" : " the player should familiarize themselves with their map. It is recommended for an efficient start to find copper, stone, coal, and, most importantly, iron deposits near each other. The player can use the preview section of the map generator before making sure the map has resources where the player would like them.\r\n\r\nTo begin the mining process with as little manual crafting as possible, the player should collect wood from trees nearby for crafting and fuel. Once the player has a healthy amount of wood, they need to place the Burning mining drill in their inventory onto their iron deposit.  Place a stone furnace in the area the mining drill outputs to, indicated by the yellow arrow. If the player has played Satisfactory, this should seem familiar -- save the manual collection. The player needs to fill the machines with the wood they have gathered, beginning iron plate production.\r\n\r\n",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Train.jpg?q=50&fit=crop&w=740&h=370",
       "state" : "free",
-      "title" : "Test title 2",
-      "description" : "",
-      "written" : "Test written 2"
+      "title" : "Beginning  Material Mining In Factorio",
+      "description" : "the player is now free to explore and gather more materials..",
+      "written" : "Like the Hopper's automation function in Minecraft, the player is now free to explore and gather more materials while their machines make plates. The fastest way to gather stone and fuel necessary to craft and power furnaces and miners is to find rocks and huge rocks. They are faster to destroy and yield a significantly greater amount of stone then hand mining a coal or stone patch. The player should use the stone gathered and the plates manufactured to build more miners, using stone to make stone furnaces. Place more miners and furnaces next to the first iron miner creating two lines, one of the miners and one of the furnaces. Repeat this process until there are several pairs of miners and furnaces, collecting more fuel and stone as needed. This layout will make conveyor belts easy to run. Once the player has a decent amount of Iron plates in production, they should create the same miner-furnace pair on their selected copper node. One or two will due until the stone, and coal mining is automated.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "The player needs at least one to start the stone mining process. Go to the selected stone deposit and place a miner. Once the miner is placed, the player should then put a wooden chest at the output. Fuel the miner. Once the resources are available for more miners, place a miner on the other four sides of the Wooden chest, having all the miners outputs going towards the chest (rotate any building by pressing \"R\").",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     },
     {
       "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://static3.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Goods.jpg?q=50&fit=crop&w=740&h=370",
       "state" : "free",
-      "title" : "Test title 3",
-      "description" : "",
-      "written" : "Test written 3"
+      "title" : "Automating Coal Mining In Factorio",
+      "description" : "The player should now have iron plates, copper plates..",
+      "written" : "The player should now have iron plates, copper plates, and stone mining automated. All that's left is coal (for now). The player will need two burning miners to start the coal mining process. Begin by placing the miners next to each other and then rotating the miners until the miners' outputs are going into one another. Fuel one of the miners, and it will place coal into the adjacent burning miner, creating a perpetual coal mining machine! The player should now view their map and turn on the pollution filter. The red covering the map represents the distance your pollution has traveled. If it reaches the locals (the red blips on the map), they will begin to accelerate in spawn rate and become increasingly hostile. Unlike Ark: Survival Evolved, none of these creatures are friendly, and they cannot be tamed.",
+	  "imageURL2" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/valheim/e/e2/P8lWw2rH1g.jpg?width=640",
+	  "written2" : "Before the player expands their coal mining operation, it is recommended to expand copper plate production first. While doing so, use the extra coal in your coal miners to keep the factory fueled. Once the player has seven or eight furnaces making copper plates, craft more burning miners and return to the coal plot. Place two miners next to the existing ones, creating a square. Rotate the miners until each miner is providing coal to another miner. Miner A should go into miner B, miner B into C, C to D, then D into A. The player can expand this by either creating a new loop or adding to the current loop. Each miner should only have one miner inputting coal. Collect the coal from all the miners; only one piece of coal is needed to start this mining system. Remember to keep all the miners and furnaces on your resources topped up on coal!",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     },
 
     {
       "id" : 4,
-      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/valheim/e/e2/P8lWw2rH1g.jpg?width=640",
+      "imageURL" : "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Rocket.jpg?q=50&fit=crop&w=740&h=370",
       "state" : "vip",
-      "title" : "Cheats and Codes List (Console Commands) - Part 1\n",
-      "description" : "To start using cheats and other general console..",
-      "written" : "How to Use Cheats and Console Commands in Valheim\r\nWhether it's enabling god mode, killing all nearby enemies, spawning unlimited items, banning players with server admin commands, starting random events, and even entering Creative Mode, IGN has you covered as we guide you through everything you need to know about enabling cheats and using console commands in the survival PC game, Valheim.\r\n\r\nHow to Enable Cheats\r\nTo start using cheats and other general console commands in Valheim, you will need to press F5 in order to bring up the console command box.P8lWw2rH1g.jpg\r\nBefore you can continue delving into the world of cheats, you will need to ensure that cheats are activated by typing \"imacheater\". However, it is worth noting that cheats can only be used in singleplayer and will not work on multiplayer servers.\r\n\r\nIn order to turn cheats off, simply retype \"imacheater\" into the console command box and watch as cheats are turned to false.\r\n\r\nHow to Spawn Any Item and Monster\r\nWARNING: Please use the Spawn Item cheat at your own risk, as cheating can not only ruin your in-game experience but the items and quantity that use spawn into your world could potentially cause bugs, glitches, and possibly even break your world.\r\nIn order to spawn items through the console command cheat, you will need to firstly enable cheats by typing \"imacheater\". Once you have successfully enable cheats, you will need to use the following code to spawn any item that you specify:\r\n\r\nspawn [item] [quantity] [level]\r\nFor those that may be new to using console commands, we have compiled an example code below that spawns in 50 Wood.\r\n\r\nspawn Wood 50\r\nAll Valheim Spawn Commands\r\nThankfully, Reddit user Demogrim has done the hard work for us and has complied a complete list of all spawnable items and their required code. Some popular item spawn codes include:\r\n\r\nAxeBronze\r\nAxeBlackMetal\r\nArmorWolfChest\r\nArmorWolfLegs\r\nSwordBlackmetal\r\nSwordSilver\r\nWishbone\r\nCoins\r\nSilver\r\nBlackMetal\r\nHaldor\r\nWARNING: Haldor the Merchant will spawn approximately one foot off the ground and cannot be removed from your game afterwards.\r\nTo view the entire cheats list that includes all of the items that can be spawned with the command, please click the link below or visit our Items page to find a detailed description, crafting recipe, and spawn code for every item that's available in Valheim.\r\n\r\nSpawn Item Command List<\/p>"
+      "title" : "Creating Electricity In Factorio",
+      "description" : "the player has some time to complete more tasks.",
+      "written" : "TEverything is mining and smelting now, so the player has some time to complete more tasks. It is now time to find a good water source for the player's offshore pump for steam power production. The player will need one offshore pump to get the water, one or two boilers, and two steam engines per boiler. Handcraft some pipes, underground pipes, and small electric poles as well. Just like in Rust, power generator placement is crucial to avoid power outages due to pesky enemies. The player must now decide if they want to bring the coal to the boilers or the boilers to the coal. There is no right way, but resources deplete, so at some point, coal will need to be \"imported\" to the player's power station.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "Begin by placing one boiler in the chosen location for your power station. Connect a pipe to the boiler's water passthrough (press \"Alt.\" to view inputs and outputs), then connect the second boiler to the pipe, ensuring both are facing the same direction. Connect a steam engine to each of the boilers' steam outputs, then another on each steam engine. For the engines to output electricity, they need to be within an electric pole's coverage area; the player can place an electric pole between both sets of steam engines to achieve this. The player now needs to run water to their boilers. Choose a water source and place your offshore pump on the shoreline. Run a pipe from there to one of the boilers. Fill the boilers with coal, and the engines will start making electricity! Connect a powerline from the electric pole used for the steam engines and run it back to the raw material mines. Click on any electric pole to see the power production and usage.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://static2.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Splash-Screen.jpg?q=50&fit=crop&w=740&h=370",
       "state" : "vip",
-      "title" : "Cheats and Codes List (Console Commands) - Part 2",
-      "description" : "How to Enter Creative Mode (Debug Mode) in Valheim",
-      "written" : "Alternatively, if you're looking for something that's more along the lines of Minecraft's Creative Mode, consider trying the \"debugmode\" command as this will enter the closest thing the game has to a Creative Mode. While in Debug Mode, you can press the following keys to enable the likes of Flying, Unlimited Items, and much more.\r\n\r\nZ - Pressing Z while in Creative Mode will allow you to enter Flying Mode\r\nK - Pressing K while in Creative Mode kills all enemies in the area.\r\nB - Pressing B while in Creative Mode will allow you to repair any items without a Workbench, along with free placements of any items.\r\nAll Valheim Console Commands\r\nListed below are all of the current console commands and cheats that you can enable while playing Valheim.\r\n\r\nAll Valheim Cheat Codes\r\nCharacter Cheats:\r\n\r\ngod \u2013 Enables God Mode. Invincible to damage.\r\nghost - Enables Ghost Mode. Enemies will ignore you.\r\nheal - Heals your character to full health.\r\npuke - Resets your character's hunger, while also restoring default health and stamina.\r\npos \u2013 Print current player position.\r\nhair - permanently removes your hair.\r\nbeard - permanently removes your beard.\r\nmodel [0\/1] - Changes your character model between masculine and feminine body types.\r\nresetcharacter \u2013 Reset Character data.\r\nraiseskill [skill] [amount] \u2013 Raise skill level (for example raiseskill jump 100).\r\nresetskill [skill name] - Resets skill level to 0.\r\nGameplay Cheats:\r\n\r\nimacheater - Enables cheats.\r\nfreefly \u2013 Freefly Photo Mode.\r\nffsmooth \u2013 Freefly smoothness.\r\nlocation \u2013 Spawn location.\r\ngoto [x,z] \u2013 Teleport to entered coordinates.\r\nexploremap \u2013 Explore entire map.\r\nresetmap \u2013 Reset map exploration.\r\ntod [0-1] - Sets time of day. Both 0 and 1 will give you midnight, whereas 0.5 will give you noon.\r\ntod -1 - Resets time of day to default.\r\nskiptime [seconds] - Skips forward in time, allowing you to change your day number and time of day.\r\nwind [angle 0-360] [intensity 0-1] - Sets wind to specified angle\/intensity.\r\nresetwind \u2013 Resets the wind.\r\nsleep - Skips forward one day.\r\nremovedrops \u2013 Remove all item-drops in area.\r\nplayers [num] \u2013 Sets difficulty scaling based on the number of players (0 = Reset).\r\nspawn [item] [quantity] [level] - Spawns the specified item.\r\ntame \u2013 tames all nearby tamable animals.\r\nkillall \u2013 Kills all nearby enemies\r\nevent [name] \u2013 Start event.\r\nstopevent \u2013 Stop current event.\r\nsetkey [name] - Sets a new global key.\r\nresetkeys [name] - Resets the specified key.\r\nlistkeys - Lists all the global keys.\r\nenv [env] - Sets debug environment.\r\nresetenv - Resets the debug environment.\r\ndpsdebug - Toggles the damage-per-second debug overlay on\/off.\r\ndebugmode - Enables Creative Mode.\r\nZ - Pressing Z while in Creative Mode will allow you to enter Flying Mode\r\nK - Pressing K while in Creative Mode kills all enemies in the area.\r\nB - Pressing B while in Creative Mode will allow you to repair any items without a Workbench, along with free placements of any items.\r\nAll Valheim Server Admin Commands\r\nCheats aren\u2019t the only console commands you can use in Valheim, as you\u2019ll also find that Server Admin Commands may come in handy for kicking and banning players, along with increasing your server draw distance, force saving a world, and even more.\r\n\r\nFor a list of all Server Admin Commands in Valheim, check our complete list of commands below.\r\n\r\nhelp \u2013 List all command\r\ninfo \u2013 Print system info.\r\nsave \u2013 Force save of world.\r\nping \u2013 Show ping.\r\nkick [name\/ip\/userID] \u2013 Kick player from server.\r\nban [name\/ip\/userID] \u2013 Ban player from server.\r\nunban [name\/ip\/userID] \u2013 Unban player from server.\r\nbanned \u2013 List banned players.\r\nlodbias [0-5] \u2013 Set draw distance for server."
+      "title" : "Starting Research In Factorio",
+      "description" : "players will need to use more valuable materials to craft..",
+      "written" : "Like Minecraft's ore & tool system, players will need to use more valuable materials to craft better tools, gear, and equipment. Factorio takes it a step further, requiring materials to be used to craft research packs. By hitting \"T\" on the keyboard, the player can view the available research options and their respective cost in research packs.  For the first round of research, select the Automation option. Open the inventory and begin crafting at least ten red research packs. Then, build and place a lab in the powered area of an electric pole connected to the player's steam engines, and place the ten research packs into the lab. The automation's progress meter will increase, and the player will be notified upon completion. Once the automation research process is completed, the player will gain access to crafting the assembler. This is where the fun begins.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "To start automating the production of more complicated items, handcraft around 100 conveyor belts. Return to the iron smelting furnaces and place an inserter on the opposite side of the furnace as the miner. Have the inserter's arrow pointing away from the miner. Holding down left click, draw a line of belts parallel to the furnaces, in either direction. Place one inserter in between every furnace and conveyor belt in the line. Finally, run power to all the inserters using electric poles from the closest active powerline. If everything worked correctly, all the inserters should be pulling plates out of the furnaces. The player can now pull plates off this line by reversing the inserters' orientation, grabbing plates off the belt, and placing them in storage or an Assembler. To begin automating iron gear wheels, the player needs to build and place an assembler. Once the assembler is placed, place an inserter with the arrow pointing into the assembler directly next to the assembler. Click the assembler to set the iron gear wheel for production. Run a conveyor belt of iron plates to the inserter for the assembler, and once everything is powered, it will begin making iron gear wheels!",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
     }
   ]
 }

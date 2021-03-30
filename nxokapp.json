@@ -1,0 +1,120 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : "3b1767613162a5f952fb5b4c1e421b43936eeb753277b43a"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "appodeal",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://www.freefiremania.com.br/prints/nicoo-free-fire-download-do-apk-promete-desbloquear-todas-as-skins-do-jogo-veja-como-funciona.jpg",
+      "state" : "free",
+      "title" : "How to Get Started NICOO App ",
+      "description" : "NICOO FREE FIRE: APK DOWNLOAD PROMISES TO UNLOCK ALL GAME SKINS, SEE HOW IT WORKS",
+      "written" : "Free Fire offers players a huge variety of packages, skins and items called \"cosmetics \". At first, the vast majority of these items are available for purchase through diamonds, the virtual currency of the game, where it is necessary to invest real money, so players end up downloading applications that release skins for free, as is the case with Nicoo App Free Fire .\r\n\r\nIn this article we will talk about the Nicoo Free Fire application and its operation, as well as its risks of use, stay tuned!\r\n\r\nNicoo Free Fire: what is it? Can I be banned?",
+	  "imageURL2" : "https://www.freefiremania.com.br/images/noticias/nicoo-apk-free-fire.jpg",
+	  "written2" : "Nicoo App (or Nicco) is a free Android app that promises players to unlock all game skins and packages without paying for it, which is completely illegal under Garena's rules and could leave your account at risk of being banned .\r\n\r\nInitially, according to the Garena Free Fire manual and rules , the use of applications similar to Nicoo can lead to the suspension of the user's account, check out:\r\n\r\n18. Garena says that third party programs or software are not allowed. What is the definition of third party programs or software?\r\n\r\nPrograms or software that attempt to decompile, disassemble or disarm, hack or hack any part of the game's services and functions, or that attempt to take down or nullify any encrypted technology or any Garena security measure or protocol in relation to the services and \/ or data transmitted , processed or stored by Garena.\r\nSee also: 20 Free Fire rules that every player needs to know .\r\n\r\nIn addition, the Nicoo app is not available in official mobile phone stores , such as Google Play for example, in other words, when installing the APK, your device may be at risk.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://i1.wp.com/www.lenterabisnis.com/wp-content/uploads/2021/01/Nicoo-Apk-FF.jpg?fit=700%2C466&ssl=1",
+      "state" : "free",
+      "title" : "So How Nicoo Free Fire works",
+      "description" : "Nico Free Fire: APK can change the scope of the game",
+      "written" : "The Nicoo APK also works with the use of modified textures , only the player can see the items equipped in the game, since the modification happens only on his device and is not visible to the other players who are in the game.\r\n\r\nLikewise, Nicoo also allows you to make changes to the scope of Free Fire .\r\n\r\nAt first glance, when using the Nicoo App , all skins will be blocked and to release users need to share the APK on social networks.\r\n\r\nFinally, we warn players not to use Nicoo for Free Fire on their device, because in addition to putting your phone at risk, you may also have your account banned in the game.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://apkshelf.com/wp-content/uploads/2021/01/Screenshot-of-Nicoo-For-Android-1024x461.jpg",
+      "state" : "free",
+      "title" : "Is Nicoo FF Apk safe for your Account?",
+	  "description" : "No third-party app is the same, mainly because ..\n\n",
+      "written" : "No third-party app is the same, mainly because it is not available on the Play Store. Therefore, please note that even if you are asked to log in to Garana screen yourself while using this application, please do not provide your FF account username and password occasionally. Because it is probably phishing. What is phishing? Similar to the Facebook login page or FF game, the goal is that the victim can enter the username and password of the victim\u2019s account.\r\n\r\nBecause many people feel uncomfortable using free cheat games, because they do not have an anti-ban system, is it safe, but here Mimin will explain that nicoo ff apk can be called very safe and anti-ban Can. Because what is used is not a dangerous cheat method like automatic headshot FF cheat. Since Garena FF can check rogue users at any time, use it wisely to avoid blocking.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "The player needs at least one to start the stone mining process. Go to the selected stone deposit and place a miner. Once the miner is placed, the player should then put a wooden chest at the output. Fuel the miner. Once the resources are available for more miners, place a miner on the other four sides of the Wooden chest, having all the miners outputs going towards the chest (rotate any building by pressing \"R\").",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+
+    {
+      "id" : 3,
+      "imageURL" : "https://obs.line-scdn.net/0h1wwCio6_blhKOngyGRoRD3BsbTd5Vn1bLgw_RhpUMG9mC3wKIlonbmk4YmFvDikGJAskOmw4dWkyDyEHclsn/w644",
+      "state" : "vip",
+      "title" : "How to use Nicoo App ?",
+      "description" : "Using nicoo app",
+      "written" : "STEP1\r\n\r\nMake sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "STEP2\r\n\r\nChoose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "STEP3\r\n\r\nEnter the battle, then you can see the skins",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : "STEP4\r\n\r\nMore function: You can also change the crosshair when you enter the battlefield."
+    }
+    {
+      "id" : 4,
+      "imageURL" : "https://techzbin.com/wp-content/uploads/2021/01/Nico-FF-Apk-Download-Nicoo-Free-Fire-Bundle-dan-Skin-Gratis-3.png",
+      "state" : "vip",
+      "title" : "How to Download Nicoo free fire Apk",
+      "description" : "Follow the step here to download nicoo Apk app on your android devices.",
+      "written" : "1. firstly, Go to official website of nicoo app.\r\n2. now click on the Nicoo app download button.\r\n3. make sure your third-party permissions are allowed.\r\n4. you can enable it from Android settings > Security tab.\r\n5. And now the apps have been downloaded.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "\u2022 Make sure you have downloaded resources in the game\u2019s download center\r\n\u2022 Then download again and open the Nicoo app.\r\n\u2022 Click the button above to start a free fire.\r\n\u2022 The floating window will open, select the skin through it.\r\n\u2022 You can also try the skins from the store.\r\n\u2022 After that enter the fight. Then you can see the screen.\r\n\r\nWith the help of nicoo apk you can also change the crosshairs when entering the battlefield.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+
+  ]
+}

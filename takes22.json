@@ -1,0 +1,132 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : "4d0f1dc7937419e7c98dc1c620188977d360b74e7ec1dbe0"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "appodeal",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/9/90/ITTShed2.jpg?width=640",
+      "state" : "free",
+      "title" : "General Tips and Tricks",
+      "description" : "Getting started in Factorio can be a little daunting at first, but ",
+      "written" : "Press R3\/RS at any time to locate the other player. The game will require you and your Player 2 to split up often so being able to locate them quickly will come in handy.<\/li><li> You can jump off walls and you'll need to do so often to gain some extra height.<\/li><li> When double jumping, don't press A\/X to jump a second time until the first jump reaches the very top of its arch. Many jumps will require a perfect double jump like this so it's important to get the rhythm of this move down.<\/li><li> <b>Ground Pound<\/b>: Jump up and press B\/Circle while in the air to perform a ground pound. This is useful for breaking objects like glass and giving your partner a trampoline-like boost (when possible).<\/li><li> May and Cody can stick to basically any wall in the game. Jump at the wall and keep holding that jump button after hitting the wall. This causes them to stick \u2014 they'll slowly slide down however so do what you need to do quickly.<\/li><li> If you're at a puzzle, assuming that it will have Cody and May doing different things so both players should look around for two things that can be interacted with.<\/li><li> If it looks like you need to crouch, you probably do. You can <b>crouch by pressing B\/Circle.<\/b><\/li><li> If you're struggling to figure out where to go, look for <b>yellow<\/b>. This game uses yellow to signpost to the player what needs to be done \u2014 yellow levers, yellow levers, yellow buttons, and more.<\/li><li> Many of the boss fights in the game will have you using the boss' own weapons against them. If you're stuck trying to figure out how to damage a boss, try and find a way to throw their projectiles or deflect their attacks back to them.<\/li><li> Listen for the taps of a tambourine \u2014 it means a minigame is nearby.<\/li><li> There are 25 minigames in It Takes Two \u2014 they're fun, quick, and easy so keep an eye out for them.<\/li><li> For the most part, <b>Green = Good and Red = Bad<\/b>.<\/li><\/ul>",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/c/c6/ITTShed3.jpg?width=640",
+      "state" : "free",
+      "title" : "The Shed",
+      "description" : "The player with better aiming skills should play as..",
+      "written" : "<ul><li> The player with better aiming skills should play as Cody in this level and the player that's better at platforming should play as May.<\/li><li> If something looks breakable with a ground pound, it likely can be broken with a ground pound. Give it a go and see!<\/li><li> Many things like doors can't be opened unless both May and Cody interact with the door (or whatever it is blocking your way forward) at the same time, often by pressing Y\/Triangle.<\/li><li> If you see something like an empty can, there's a good chance you'll need to roll it to a specific area to continue forward. One player should get inside and roll it so that the other player can jump on top of it to advance forward.<\/li><li> Treat this level like an actual shed: If you need to power on a saw, look for an electrical plug near an outlet. You might need to plug that plug into the outlet to power on the saw and proceed forward.<\/li><li> If you see a vacuum hose, don't be alarmed \u2014 either Cody or May will likely need to go into it.<\/li><li> If you see a two-sided hose, there's a good chance either Cody or May will need to aim one end so that the other player can go through the other end and fly out the end being aimed.<\/li><li> If you see a red button, ground pound it.<\/li><li> Fans are powered by air\/wind, right? If you need to go through a fan, try and find a way to get the air\/wind off the fan so that it stops spinning.<\/li><li> When jumping over fans that blow air up, if the light on it is green, it will blow you up. If the light is red, it will suck you up and kill you. There's often a switch nearby to change the air flow.<\/li><li> When you jump into a funnel, be prepared for it to shoot you high into the air. So high, in fact, that you'll be able to control where May or Cody float down too. Make sure to aim for the ground or the next funnel.<\/li><li> Some puzzle will require you to suck things up \u2014 look around for (usually red) things to suck up.<\/li><li> Water is bad \u2014 if you see water, you'll die if you fall into it.<\/li><li> Cody will eventually get a nail that he can shoot (well, even further along he'll have three nails) and May will get a hammer. May can use the hammer to connect to nails that Cody has shot.<\/li><li> Cody will need to shoot nails into things to make them stick \u2014 look for a circle to shoot a nail into in order to hold something in place.<\/li><li> If there's a glass bottle, May can break it with her hammer.<\/li><li> If you see a yellow piece of wood, Cody will likely need to shoot a nail into it.<\/li><li> If something is falling from the sky, keep an eye out for the shape of its shadow on the ground. Make sure you're not standing on the shadow if you want to avoid damage.<\/li><li> When riding the rails, you can dash forward by pressing X\/Square and you can jump by pressing A\/X. Make sure to either jump over blueish-white sparks coming down the rail or jump to a nearby rail by pressing RB\/R1.<\/li><\/ul>",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/5/59/ITTShedj87.jpg?width=640",
+      "state" : "free",
+      "title" : "The Tree",
+      "description" : "Whoever has the most precise aim should play as May ..",
+      "written" : "<ul><li> Whoever has the most precise aim should play as May and whoever would prefer to shoot something more like a machine gun than a sniper rifle should play as Cody in this level.<\/li><li> One of the new shticks of this level is a grappling hook that will follow you for the rest of the game. If you don't know how to clear a gap, look up for a hook to grapple to.<\/li><li> When you make it to the inside of <a title=\"The Tree\" href=\"\/wikis\/it-takes-two\/The_Tree\">the tree<\/a>, you'll be introduced to this level's main shticks: a sap gun and a rocket launcher.<\/li><li> May will receive a rocket launcher and Cody will receive a sap gun.<\/li><li> Cody can weigh things down with his sap. This sap also sticks to whatever it's shot at.<\/li><li> May can shoot the sap with a rocket launcher to cause it to explode: this is often necessary to destroy obstacles in your way.<\/li><li> If something looks too high up, Cody should shoot some sap at it to weight it down and make it reachable.<\/li><li> If you see a red and white target, have May shoot it with a rocket launcher. This will cause it to spin or do something that will often help you move forward.<\/li><li> To kill wasps, Cody must soak them with sap and then May must shoot them.<\/li><li> If you see yellow sap somewhere already in the level, Cody should shoot more sap at it. There's a good chance this will cause that sap to rise, which is often necessary to move forward.<\/li><li> When riding rails, you'll need to press RB\/R1 to jump onto a different rail in order to dodge incoming rail carts.<\/li><li> When fighting bosses, think about this level's main mechanics: sap + rocket combo. Soak the boss in sap and then blow it up with a rocket.<\/li><li> Take out larvae the same way you take out wasps.<\/li><li> When swarms of wasps attack, load the entire swarm up with sap and have May shoot a rocket at the sap to destroy the swarm.<\/li><li> When on the floating lid in the water, Cody can aim where the lid floats by shooting sap in the direction opposite of where he wants to go. May will need to shoot obstacles in the way.<\/li><li> When flying, Cody will be in control of steering and May will be in control of shooting.<\/li><\/ul>",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://static3.srcdn.com/wordpress/wp-content/uploads/2021/01/Factorio-Gameplay-Goods.jpg?q=50&fit=crop&w=740&h=370",
+      "state" : "free",
+      "title" : "Automating Coal Mining In Factorio",
+      "description" : "The player should now have iron plates, copper plates..",
+      "written" : "The player should now have iron plates, copper plates, and stone mining automated. All that's left is coal (for now). The player will need two burning miners to start the coal mining process. Begin by placing the miners next to each other and then rotating the miners until the miners' outputs are going into one another. Fuel one of the miners, and it will place coal into the adjacent burning miner, creating a perpetual coal mining machine! The player should now view their map and turn on the pollution filter. The red covering the map represents the distance your pollution has traveled. If it reaches the locals (the red blips on the map), they will begin to accelerate in spawn rate and become increasingly hostile. Unlike Ark: Survival Evolved, none of these creatures are friendly, and they cannot be tamed.",
+	  "imageURL2" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/valheim/e/e2/P8lWw2rH1g.jpg?width=640",
+	  "written2" : "Before the player expands their coal mining operation, it is recommended to expand copper plate production first. While doing so, use the extra coal in your coal miners to keep the factory fueled. Once the player has seven or eight furnaces making copper plates, craft more burning miners and return to the coal plot. Place two miners next to the existing ones, creating a square. Rotate the miners until each miner is providing coal to another miner. Miner A should go into miner B, miner B into C, C to D, then D into A. The player can expand this by either creating a new loop or adding to the current loop. Each miner should only have one miner inputting coal. Collect the coal from all the miners; only one piece of coal is needed to start this mining system. Remember to keep all the miners and furnaces on your resources topped up on coal!",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+
+    {
+      "id" : 4,
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/8/8a/RoseRoomSPF3P1.png?width=640",
+      "state" : "vip",
+      "title" : "Rose's Room",
+      "description" : "Rose's Room is one of the biggest levels in the game ",
+      "written" : "Pillow Fort\n\n\n<ul><li> This is a relatively short section of <a title=\"Rose's Room\" href=\"\/wikis\/it-takes-two\/Rose%27s_Room\">Rose's Room<\/a> so don't get surprised when your time in the Pillow Fort ends quickly.<\/li><li> Explore this level \u2014 there aren't many puzzles to solve and it's a quieter moment in this game.<\/li><li> Keep an eye out for the minigame tambourine found early in this chapter of Rose's Room.<\/li><li> Interact with the lava lamps to change the goop inside. Who doesn't love a good lava lamp?<\/li><li> Interact with the constellation globes to witness Cody and May's fascination with the stars. It's actually quite cute.<\/li><li> We won't spoil it here, but if you're a fan of Hazelight Studios games, explore every nook and cranny: there's an excellent easter egg in the Pillow Fort.<\/li><\/ul>\n\n\nSpaced Out\n",
+	  "imageURL2" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/e/e6/RoseRoomSPL3P20.png?width=640",
+	  "written2" : "\n\n<ul><li> The main schtick of this chapter will be shown to you almost immediately: Cody can shrink himself and embiggen himself and May can stick to walls (only after climbing up the yellow pathways along them).<\/li><li> When you can't figure out how to move forward, Cody should look around for a small door to go through. On that same note, May should look for a yellow pathway to stick to.<\/li><li> If you see a robot, Cody will need to shrink all the way down and enter it through its side because inside is a battery that needs to be pushed by Cody in order to power on the robot. May will need to pull a lever on the front of the robot while Cody is pushing the battery in.<\/li><li> This level is comprised of six different portals and each portal is a puzzle. These puzzles are all wholly unique so take into account everything you've done in the game thus far to solve them.<\/li><li> If the portal puzzles have you stuck, head to IGN's full <a title=\"Walkthrough\" href=\"\/wikis\/it-takes-two\/Walkthrough\">walkthrough<\/a> for this section of the game for thorough, step-by-step instructions with screenshots.<\/li><li> Explore each of the portals thoroughly because there are a handful of easter eggs within that you won't want to miss.<\/li><li> If something is too high up, look for a circular bounce pad that looks like an inflatable pool. Jump on it and it should act like a trampoline and give your jump some extra height.<\/li><li> If something looks like it can be compressed or if something looks like a button that's quite large, a Cody full-embiggened can likely stand on it or ground pound it to lower it. This is often necessary for May to get onto a platform.<\/li><\/ul>\n\nHopscotch\n",
+	  "imageURL3" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/6/6b/Hopscotch35.png?width=640",
+	  "written3" : "\n\n<ul><li> <b>There are three minigames in this level so keep your eyes peeled for the tambourines floating about \u2013 you'll hear them before you see them so listen for the taps.<\/b><\/li><li> There's not really a main schtick for this chapter \u2014 instead of using objects on your person do to thing, you're going to be completing a lot of puzzles that require the utmost cooperation between Cody and May.<\/li><li> If you're struggling to figure out where to go or looking for a puzzle to solve, look for something colorful. The puzzles are often revealed by way of color.<\/li><li> If something is blocking your way, there's likely a button or something like that to ground pound nearby. The two are usually connected.<\/li><li> If you see numbers on something, pay attention to it \u2014 many of the puzzles are number based and require you to do things in sequential order (and that's where the \"pay attention to numbers\" thing comes in).<\/li><li> When riding rails, one person is going to need to stay behind to control the blocks that the rail-rider will encounter on their trip.<\/li><li> When you reach a school room-like setting, you're going to need to do some homework and by homework, we mean a math challenge, a memory challenge, and a drawing challenge.<\/li><li> When you reach a toy mouse, ignore it and head to the opposite direction of the room. Solving this room's puzzle starts here.<\/li><li> Many of the puzzles in this chapter are based on the entire room you're in \u2014 look down, look up, and look all around to figure out what's required of you.<\/li><li> There's a lot of toys to interact with in this chapter \u2014 board games, piggy banks, electronic books, and more. Have fun seeing what each does!<\/li><li> When you have a fidget spinner, it might seem like you can fly with it, but it's less flying and more gliding. This is to say that you should use the bounce pads to gain height while fidget spinning gliding.<\/li><li> When you reach the kaleidoscope, pay attention to the walls as this is where the solution to the room's puzzles can be found.<\/li><\/ul>\n\nTrain Station",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : "\n\n<ul><li> The objective here is to move the barrier so the train cart can go forward: to do this, the conductor must be placed inside the small building with a shut door in front of the barrier. <\/li><li> To open the door to that building, the circle in the middle of the area must have three dolls placed on it. <\/li><li> The first doll can be found up ahead and to the left of the circle on a roof. Place it in the small circle inside the circle closes to the train cart. <\/li><li> The second doll can be found behind the train cart high up on a roof. Place it in the small circle across from the first doll.<\/li><li> The third doll can be found just ahead of the second doll now. Place it into the gear next to the big circle: this opens the door. <\/li><li> The conductor can be found in the corner of the room (the right corner if you're looking out from the front of the train cart) \u2014 grab it and place the conductor in the small circle inside the now-open door. This powers on the train cart. <\/li><li> To move the train cart, both Cody and May must repeatedly tap Y\/Triangle on the train cart. <\/li><\/ul>\n\n\nDino Land\n\n<ul><li> One player must control the green dinosaur and the other must control the red dinosaur. <\/li><li> A player cannot ride the red dinosaur until the platform it's on top of is brought down by the green dinosaur. <\/li><li> The green dinosaur can bite and hold onto things \u2014 it can also move those things up and down, left and right. <\/li><li> The red dinosaur can slam the ground with its tail to change the appearance of the platforms in front of it. <\/li><li> For many of the puzzles here, the green dinosaur will have to hold onto a platform with its mouth while the red dinosaur attacks the specifically-marked platforms. <\/li><li> When the red dinosaur is no more, the green dinosaur must hold platforms in place for the player off the dinosaur to jump to and from. <\/li><li> After completing the puzzle, hop back onto the train cart and continue forward.<\/li><\/ul>"
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/it-takes-two/2/2f/RoseRoomSPF3P6.png?width=640",
+      "state" : "vip",
+      "title" : "Rose's Room Part2",
+      "description" : "",
+      "written" : "Pirates Ahoy\n<ul><li> To control the pirates, both players must understand that they're in control of just one water wheel on the sides of the pirates ship. <\/li><li> To move forward, both players must push up on the left stick. <\/li><li> To turn, both players must turn in that direction on their left stick. <\/li><li> To reverse, both players must pull back on their left stick.<\/li><li> To hit targets with cannons, the ship must be facing the target before the players press RT\/R2 to fire. <\/li><li> Take out everything by firing cannons at it and watch out for red targets on the ship and on the water \u2014 these are incoming cannon balls that can damage you. <\/li><li> If you see a box of firecrackers, shoot it for a giant explosion that damages everything nearby. <\/li><li> For help with defeating the boss in this section, head to the IGN's <a title=\"Boss Guide\" href=\"\/wikis\/it-takes-two\/Boss_Guide\">Boss Guide<\/a>. <\/li><\/ul>",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "\nThe Greatest Show\n\n<ul><li> This is a section full of puzzles \u2014 one player will need to do one thing and the other player will likely be doing something almost totally separately. <\/li><li> If a player is ground pounding a red button, the other player should be doing something else \u2014 there's usually something near the red button to interact with. <\/li><li> If you're struggling with figuring out what to do, pay attention to colors: red buttons need to be ground pounded and yellow things are usually a piece of the puzzle. <\/li><li> The schtick of the level is to take a metal ball from one end of the level to the other end. <\/li><\/ul>",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "\nOnce Upon a Time\n\n<ul><li> This is a relatively chill area so feel free to explore and take things easy. <\/li><li> There are two achievements\/trophies to be found here: On Rails Experience and Your Art Realized. <\/li><li> There's a minigame to be found here \u2014 look for a TV in the plaza of the castle to find the Birdstar minigame. <\/li><li> There's a ton of stuff to interact with to fun effects: Keep an eye out for some cannons and a dart board, a knight stuck in glue, and more. <\/li><li> When you're ready to advance, look for crane high up: the players must work together to pick up a bowling ball and bash it through the castle's gates. <\/li><\/ul>",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : "\nDungeon Crawler\n\n<ul><li> This section of the game is very similar to Diablo in that it's a top-down RPG: both players have three standard attacks and one special attack. <\/li><li> To use the special attack, you must use your other three attacks to charge up the bar at the bottom of the left and right corners of the screen \u2014 when it's glowing, press Y\/Triangle to use the attack. <\/li><li> You can basically just spam attacks to take out most enemies. <\/li><li> If an enemy has a shield, you'll need to get behind it to damage it. <\/li><li> When fighting the miniboss knight, pay attention to the three purple lines \u2014 three, damaging magic balls are about to shoot down this lane. <\/li><li> May can traverse across gaps with her fire dash and Cody can teleport through iron gates with his teleportation ability. <\/li><li> When you see fire plumes, Cody can freeze them to turn the fire into a platform that Cody and May can walk across. <\/li><li> To defeat the troll, keep an eye out for chains in the room \u2014 the objective is to destroy the chains. <\/li><li> This section is quite chaotic: if you get lost, Cody has a blue circle around him and May has a green circle around her. <\/li><li> Boss Guide for tips on how to defeat the boss of this section. <\/li><\/ul>\n\nThe Queen\n<ul><li> This section is relatively chill, albeit somewhat emotionally draining in that you're going to be...saying goodbye...to Cutie the Elephant. <\/li><li> When you're in control of May and Cody, go up the stairs to find a cardboard claw machine: use the arrows to move the claw and ground pound the button in the middle of the arrows to drop the claw. You'll know what you're after when you hit this point. <\/li><li> After the claw machine part, the only other thing you'll be doing in this section is repeatedly pressing Y\/Triangle so be ready for that at all times.<\/li><\/ul>"
+    }
+  ]
+}

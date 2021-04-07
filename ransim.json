@@ -1,0 +1,148 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : "a8727313a19e127bf3b65613f4256e73157a7ca80e4cab5e"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "appodeal",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456624342/D2A164F35E918CB1E078262AD841E69587CDE016/",
+      "state" : "free",
+      "title" : "Vehicles in Ranch Simulator.",
+      "description" : "Getting started in Factorio can be a little daunting at first, but ",
+      "written" : "There are quite a few vehicles in Ranch Simulator. But there are only a few useful ones. These are the $1250 pickup truck, the $1400 pickup truck, the animal truck and the gator thing. The best vehicle to purchase is the $1400 pickup truck fully upgraded in my opinion. It handles really well in the bush, it can store a ton of items such as meat, wheat bags etc. And it can hold either 2 pigs or 1 cow. It also has one of the best top speeds in the game. What about the $1250 pickup, It can carry the same amount of animals as the $1400 I here you ask. Well let me explain, the $1250 can in fact hold the same exact amount of animals, it also has the fastest acceleration. But the biggest problem is the handling. You will be skidding out, flipping the thing left right and centre. And for $150 more, the $1400 is definitely better.\n",
+	  "imageURL2" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456625391/4810BCA656AFBB73E18B8C57C78D8C626B8A7152/",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456526070/EDE0F0FEC28315419CB8A951F7CE69B727F04C41/",
+      "state" : "free",
+      "title" : "Chicken Basics in Ranch Simulator.",
+      "description" : "The player with better aiming skills should play as..",
+      "written" : "To keep chickens, it is the best option to build a chicken coop. In the tutorial, you build a medium or small chicken coop. It is best to build a medium chicken coop and put you couple of chickens in there to start off with. Later you want to build a premium chicken coop for $750. It comes with a hefty price, but profits from chickens are extraordinary.\n",
+	  "imageURL2" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456525297/21D041533607E0706E052C1CB7B2A46F5E355059/",
+	  "written2" : "\nIt is good to have at least 4 chickens in here. Next buy a Rooster as soon as possible. Don't buy the over scope as it is completely useless. Roosters allow for fertilised eggs, which can be placed in your medium chicken coop to hatch. How do you know their fertilised? Well the over scope checks for you but chickens do not lay fertilised eggs in the hay area. They lay them anywhere else apart from the hay. So fertilised eggs go into you medium coop to hatch and grow up, and the eggs in the hay go into the basket. Chicks do eventually hatch and they also grow into chickens. But they can rarely grow into a rooster.\r\n\r\nAlways build the feeding trough, to save the hassle of placing grain on the ground. Every day resupply the trough with food and water to ensure they never die.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456573922/25DE19260670FFE4C4A74EF064B5DFB672C8EB74/",
+      "state" : "free",
+      "title" : "Pig Basics",
+      "description" : "Pig Basics in Ranch Simulator.",
+      "written" : "To have pigs it is best to build a barn with the silo upgrade. Meat is probably the best way to make money in this game, and pigs do exactly that. They cost $300, for 1.\r\nPigs are really easy to keep, just let them sit in the barn for 10 in-game days. They will become really fat. Then transport them in a car to the general store and kill them. Skin them and sell the meat. They should sell for around $600 - $700. Where you can buy more pigs.\r\nPigs are really easy to keep and the best source of money.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+	
+	{
+      "id" : 3,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456575865/1F37CB649A75C76CCA065B631F9EE223197CD0EF/",
+      "state" : "free",
+      "title" : "Cow Basics in Ranch Simulator.",
+      "description" : "Cows are another easy animal to keep..",
+      "written" : "Cows are another easy animal to keep. They cost $650, and are another good source to make money. Again you will need a barn, except this time you will need to install cubicles inside the barn for them. Install feeding troughs as well in these cubicles.\n",
+	  "imageURL2" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456576874/D7452347FF3344518DFF68A4B175901613AB5938/",
+	  "written2" : "\nCows are simple, have a milk can and a steel bucket. Place the bucket beneath the cow and press A and D in the order it tells you too. Then put the milk into the milk can. They can be milked up to 3 - 4 times from 08:00 - 20:00.\n",
+	  "imageURL3" : "https://steamuserimages-a.akamaihd.net/ugc/1764821177456576306/FE57AC74C0180A2FFB37AC627EE061BBB1B541DD/",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+	
+    {
+      "id" : 4,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1761442571550350487/79C0C1F174208B2D1F9540B1070E39D81D439D77/",
+      "state" : "free",
+      "title" : " Hunt bears and skins",
+      "description" : "The player should now have iron plates, copper plates..",
+      "written" : "3 animals types exist in this game. Deer, bears and wolves. These can all be found at different parts of the map. Deer are the most common found anywhere. The ranch, general store etc.\r\nBears are found in the lower right corner of the map near a random house that you can get into by jumping on the mailbox. (But you can't get out unless you get into your vehicle through the wall)\r\nWolves are found around the middle.\r\nDeer take 2 shots to take down and give 3 meat when skinned.\r\nBears take 4 - 5 shots and give 5 - 6 meat.\r\nWolves take 1 shot and give 2 meat.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+
+    {
+      "id" : 5,
+      "imageURL" : "https://cdn.akamai.steamstatic.com/steam/apps/1119730/header.jpg",
+      "state" : "vip",
+      "title" : "What is Ranch Simulator?",
+      "description" : "Ranch Simulator - The Realistic Multiplayer Agriculture Management Sandbox; Farm, Harvest, Hunt & Build ",
+      "written" : "ABOUT THIS GAME\r\nIt was once your grandfather\u2019s pride-and-joy, but your family ranch has fallen on hard times and it\u2019s up to you to turn things around. Sitting in a remote forested valley, the dilapidated homestead will test all your abilities as you attempt to turn it into the most prosperous ranch in the region \u2013 either alone or in up to four player co-op multiplayer.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "Rebuild Your Ranch\r\nThe years have not been kind to your family ranch and it will take time and money to restore it to its former glory. Buy tools from the local hardware store and purchase a range of vehicles from the garage to help with your rebuilding projects. Renovate the main house, decide what livestock you want to farm and construct the barns, pens and runs you\u2019ll need to keep them safe and secure.",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://steamuserimages-a.akamaihd.net/ugc/1770449818015519851/04743EE72A36593161848595A622FA25A55D027C/",
+      "state" : "vip",
+      "title" : "How to build advance fences!!",
+      "description" : "Secrets: Fences for a larger area of animals!!!",
+      "written" : "1. Place log\n",
+	  "imageURL2" : "https://steamuserimages-a.akamaihd.net/ugc/1770449818015423371/0C6F2F3006B02512EC0CBAD7054D46FABECCCFCA/",
+	  "written2" : "\n2. Stack to animal step height.\n",
+	  "imageURL3" : "https://steamuserimages-a.akamaihd.net/ugc/1770449818015519401/CCF136F00DC8C7B32523BB439392365F509A523D/",
+	  "written3" : "\n3. Repeat\n",
+	  "imageURL4" : "https://steamuserimages-a.akamaihd.net/ugc/1770449818015519851/04743EE72A36593161848595A622FA25A55D027C/",
+	  "written4" : "\nTips:\n- Place a log or two on the outside of the log fence, it acts just like a stair for you, but you still have to jump to get from inside to out side. ( if you put it on both sides, they can escape.)\n- Placing logs in the grassy area, like a upside down T, that the chickens like to roost on them and the poop cleanup is so much easier."
+    }
+  ]
+}

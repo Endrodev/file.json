@@ -1,0 +1,90 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : "e8f0556f80acf210d20574cdfaed45eea61e6eb448bd72fb"
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "appodeal",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "",
+      "update_msg" : "update your app for grt all favorite now",
+      "update_state" : false,
+      "update_title" : "update your app"
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/90/67/73/906773b2-4cf4-2f72-9704-13f30c989970/1242c837-fa3c-44ba-8431-60d096c161c7_iPhone_1242x2208_WOP_1.png/680x400bb.png",
+      "state" : "free",
+      "title" : "What is World of Pets \u2013 Multiplayer: Walkthrough ",
+      "description" : "World of Pets \u2013 Multiplayer is a new virtual world game for the iOS and Android platforms..",
+      "written" : "",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1417150/ss_d436fbde3d098260414091b583665fa528a00264.600x338.jpg",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : "Collect, Hatch, and Tame loyal pets in Norris Nuts: World of Pets! A social RPG adventure game where friends set out on a quest to discover hidden secrets and explore colorful new lands!\r\n\r\nEnter a land of fantastical animals and colorful characters in World of Pets, a place to meet, play and trade with friends! Explore magical locations together, with their own Quests, Items, and Pets!\r\n\r\nPets start as eggs, once hatched it's up to you to look after them so they can grow bigger! Use potions to create elemental versions of your creatures.\r\n\r\nCustomize your player and your pets, take them to new areas and take on Quests!\r\n\r\nWorld of Pets is a social place! Meet with friends and make new ones, play, trade, have competitions, and compare styles in the Town Center!"
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/98/44/84/984484c3-07b9-59ca-6f3c-2161bd3a907d/90d23ecf-1ff3-477a-965a-6b97a88f8022_iPhone_1242x2208_WOP_3.png/680x400bb.png",
+      "state" : "free",
+      "title" : "About World of Pets Game ",
+      "description" : "Everyone's favorite the game will never let you get bored!..",
+      "written" : "",
+	  "imageURL2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1417150/ss_afe237660ff4b133124fe180686c6e25f932fa87.600x338.jpg",
+	  "written2" : "Collect, Hatch, and Tame loyal pets in Norris Nuts: World of Pets! A social RPG adventure game where friends set out on a quest to discover hidden secrets and explore colorful new lands!\r\n\r\n\r\nEnter a land of fantastical animals and colorful characters in World of Pets, a place to meet, play and trade with friends! Explore magical locations together, with their own Quests, Items, and Pets!\r\n\r\n\r\nPets start as eggs, once hatched it's up to you to look after them so they can grow bigger! Use potions to create elemental versions of your creatures.\r\n\r\n\r\nCustomize your player and your pets, take them to new areas and take on Quests!\r\n\r\n\r\nWorld of Pets is a social place! Meet with friends and make new ones, play, trade, have competitions, and compare styles in the Town Center!",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/67/59/a0/6759a052-a3a2-e0be-8915-87982ce8ea12/5df9a798-be1c-4870-9689-da108a84ac77_iPhone_1242x2208_WOP_4.png/680x400bb.png",
+      "state" : "vip",
+      "title" : "FAQ & COINS & GEMS Tips: World of Pets - Multiplayer",
+      "description" : "Whoever has the most precise aim should play as May ..",
+      "written" : "WHY CAN'T I PURCHASE COINS & GEMS?\r\nOn PC and MAC due to Two Factor Authentication, some cards may not be accepted in-game. In these cases, we suggest using PayPay.\r\n\r\nWHAT IS XSOLLA LAUNCHER?\r\nXsolla is a Games Launcher that can be used to launch PC and Mac games, similar to the AppStore and Steam.\r\n\r\nFor any support issues please use the support section of the World of Pets site and we will get back to you as soon as possible.\r\n\r\nOPTIMISING PERFORMANCE IN WOP\r\nWHAT IF I NEED SUPPORT?\r\nSometimes when playing World of Pets, you may experience a low FPS (frames per second) or frame rate. This may be caused by simply not having a strong enough computer\/device to run the game smoothly in your current settings.\r\n\r\n\r\nOpen the options menu in-game and navigate to video settings, you will have a list of options you can adjust to increase performance.\r\n\r\n\u200B\r\n\r\nI WANT TO REPORT A PLAYER\r\nIf someone isn't following the World of Pets community guidelines please send our Support Team a message with the Username of the Player and we will investigate.",
+	  "imageURL2" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written2" : "",
+	  "imageURL3" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written3" : "",
+	  "imageURL4" : "https://1.bp.blogspot.com/-f59fbPbYDrY/YFBcSuP-YBI/AAAAAAAAAAo/qR3U6fzYun0aze5-HIuJRevi5yMCThEIwCLcBGAsYHQ/s320/720-30.png",
+	  "written4" : ""
+    }
+
+  ]
+}

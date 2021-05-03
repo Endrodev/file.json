@@ -16,12 +16,12 @@
       "appodeal_app_key" : "3b1767613162a5f952fb5b4c1e421b43936eeb753277b43a"
     },
     "facebook" : {
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
-      "facebook_native_id" : ""
+      "facebook_banner_id" : "273544084485941_277243137449369",
+      "facebook_interstitial_id" : "273544084485941_277251454115204",
+      "facebook_native_id" : "273544084485941_277245154115834"
     },
-    "mode_ads_banner" : "appodeal",
-    "mode_ads_interstitial" : "unity",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "unity",
     "mode_button_ads_action" : "0",
